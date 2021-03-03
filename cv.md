@@ -13,7 +13,7 @@ I worked as a design engineer. At some point, the work stopped being interesting
 ## Skills ##  
 ◾◾◾◾◾ HTML  
 ◾◾◾◾◾ CSS/SCSS  
-◾◾◾◽◽ JavaScript     
+◾◾◾◾◽ JavaScript     
 ◾◾◾◽◽ Webpack, Eslint  
 ◾◾◾◽◽ Git  
 ◾◾◾◾◾ Figma   
