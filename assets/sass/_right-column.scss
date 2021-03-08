@@ -1,0 +1,59 @@
+.right-column {
+  display: grid;
+  grid-template-rows: 150px 170px 1fr;
+  padding: 20px 20px 0 20px;
+}
+
+br {
+  margin: 15px;
+}
+
+// .summary {
+//   display: grid;
+// }
+
+.title_black {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  color: black;
+  padding: 5px;
+}
+
+.summary__text, .education__institution, .education__faculty, .education>span {
+  margin-top: 10px;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-style: italic;
+}
+
+.experience__title {
+  margin-top: 10px;
+  padding: 0;
+  font-size: 1.5rem;
+  color: black;
+  padding: 5px;
+}
+
+.experience-decription {
+  margin-top: 5px;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-style: italic;
+}
+
+.experience__link {
+  margin-top: 10px;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-style: italic;
+  color: rgb(7, 83, 124);
+}
+
+.youtube {
+  width: 80px;
+  height: 60px;
+  img {
+    width: 80px;
+    height: auto;
+  }
+}
